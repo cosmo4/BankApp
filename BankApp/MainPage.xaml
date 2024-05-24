@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BankApp.MainPage">
+
+    <VerticalStackLayout>
+        <HorizontalStackLayout>
+            <Label FontFamily="RobotoBold" FontSize="24" Text="Warner "/>
+            <Label FontFamily="RobotoBold" FontSize="24" Text="Bank" TextColor="{StaticResource YodaGreen}"/>
+        </HorizontalStackLayout>
+        
+        
+        <Label Text="0" FontSize="80" HorizontalOptions="CenterAndExpand"/>
+        <Label Text="Current Bank Amount" HorizontalOptions="CenterAndExpand"/>
+        
+
+        <Grid x:Name="ButtonGrid" Padding="40,30,40,0" RowSpacing="15" ColumnSpacing="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            
+
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="2" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="0"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="3" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="1"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="4" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="2"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="5" BackgroundColor="#f8d87f" Grid.Row="1" Grid.Column="0"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="6" BackgroundColor="#f8d87f" Grid.Row="1" Grid.Column="1"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="7" BackgroundColor="#ed474a" Grid.Row="1" Grid.Column="2"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="8" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="0"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="9" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="1"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="10" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="2"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="11" BackgroundColor="#f8d87f" Grid.Row="3" Grid.Column="0"/>
+            <Button TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="12" BackgroundColor="#f8d87f" Grid.Row="3" Grid.Column="1"/>
+            <Button Clicked="OnDoublesButtonClicked" TextColor="black" Rotation="0"  FontAttributes="Bold" FontSize="15" Padding="10" Text="Doubles!" BackgroundColor="#10ffcb" Grid.Row="3" Grid.Column="3"/>
+
+        </Grid>
+
+        <HorizontalStackLayout  HorizontalOptions="CenterAndExpand" Padding="0,0,0,100">
+            <Button TextColor="black" FontAttributes="Bold" Text="Players" FontSize="15" BackgroundColor="#fce4d8" Clicked="OnOpenFlyoutButtonClicked" Padding="20"/>
+        </HorizontalStackLayout>
+        
+
+    </VerticalStackLayout>
+
+</ContentPage>
