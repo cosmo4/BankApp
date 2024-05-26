@@ -11,17 +11,17 @@ namespace BankApp.ViewModels
 
         public ViewPlayersModel() 
         {
-            LoadPlayers();
+            //LoadPlayers();
         }
 
-        private void LoadPlayers()
-        {
-            Players = new()
-            {
-                new Player(playerName: "Luke"),
-                new Player(playerName: "Seth"),
-                new Player(playerName: "Anna")
-            };
-        }
+        //private void LoadPlayers()
+        //{
+        //    Players = new()
+        //    {
+        //        new Player(playerName: "Luke"),
+        //        new Player(playerName: "Seth"),
+        //        new Player(playerName: "Anna")
+        //    };
+        //}
     }
 }

@@ -11,12 +11,21 @@ namespace BankApp.Models
         public string playerName;
         public int points;
         public bool isInRound;
+        public int id;
 
-        public Player(string playerName) 
+        public Player(int id, string playerName) 
         { 
+            this.id = id;
             this.playerName = playerName;
             points = 0;
             isInRound = true;
         }
+
+        public void BankPoints(int roundTotal)
+        {
+            points += roundTotal;
+            isInRound = false;
+        }
+
     }
 }

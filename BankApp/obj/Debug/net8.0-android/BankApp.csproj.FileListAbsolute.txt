@@ -1038,3 +1038,4 @@ C:\Users\warne\Repos\BankApp\BankApp\obj\Debug\net8.0-android\stamp\_GeneratePac
 C:\Users\warne\Repos\BankApp\BankApp\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\warne\Repos\BankApp\BankApp\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.dll
 C:\Users\warne\Repos\BankApp\BankApp\obj\Debug\net8.0-android\android\assets\CommunityToolkit.Mvvm.pdb
+C:\Users\warne\Repos\BankApp\BankApp\obj\Debug\net8.0-android\BankApp.sourcelink.json

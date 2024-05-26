@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\warne\\Repos\\BankApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\playerflyoutcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\playerflyoutcontent.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\viewmodels\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\viewmodels\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\playerflyoutcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\playerflyoutcontent.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\viewmodels\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\viewmodels\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\viewmodels\\playerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\viewmodels\\playerspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\bankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\bankapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\viewmodels\\playerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\viewmodels\\playerspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\models\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\models\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\viewmodels\\viewplayersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\viewmodels\\viewplayersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|c:\\users\\warne\\repos\\bankapp\\bankapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{59382CDA-DB02-4861-A556-8FBB24E84977}|BankApp\\BankApp.csproj|solutionrelative:bankapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +58,143 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerFlyoutContent.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\PlayerFlyoutContent.xaml.cs",
-              "RelativeDocumentMoniker": "BankApp\\PlayerFlyoutContent.xaml.cs",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\PlayerFlyoutContent.xaml.cs",
-              "RelativeToolTip": "BankApp\\PlayerFlyoutContent.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "BankApp\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Services\\GameService.cs",
+              "RelativeToolTip": "BankApp\\Services\\GameService.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:37:53.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerFlyoutContent.xaml",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\PlayerFlyoutContent.xaml",
-              "RelativeDocumentMoniker": "BankApp\\PlayerFlyoutContent.xaml",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\PlayerFlyoutContent.xaml",
-              "RelativeToolTip": "BankApp\\PlayerFlyoutContent.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-23T05:35:31.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BankApp",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\BankApp.csproj",
-              "RelativeDocumentMoniker": "BankApp\\BankApp.csproj",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\BankApp.csproj",
-              "RelativeToolTip": "BankApp\\BankApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-23T05:33:01.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "BankApp\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\AppShell.xaml",
-              "RelativeToolTip": "BankApp\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-23T05:27:23.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T01:59:55.097Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Colors.xaml",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Colors.xaml",
-              "RelativeDocumentMoniker": "BankApp\\Resources\\Styles\\Colors.xaml",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Colors.xaml",
-              "RelativeToolTip": "BankApp\\Resources\\Styles\\Colors.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-21T23:09:44.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Player.cs",
-              "RelativeDocumentMoniker": "BankApp\\Models\\Player.cs",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Player.cs",
-              "RelativeToolTip": "BankApp\\Models\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T05:51:00.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\App.xaml",
               "RelativeDocumentMoniker": "BankApp\\App.xaml",
               "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\App.xaml",
               "RelativeToolTip": "BankApp\\App.xaml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-23T04:51:46.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T00:19:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayersPage.xaml",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\PlayersPage.xaml",
+              "RelativeDocumentMoniker": "BankApp\\ViewModels\\PlayersPage.xaml",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\PlayersPage.xaml",
+              "RelativeToolTip": "BankApp\\ViewModels\\PlayersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-24T20:43:29.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayersPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\PlayersPage.xaml.cs",
+              "RelativeDocumentMoniker": "BankApp\\ViewModels\\PlayersPage.xaml.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\PlayersPage.xaml.cs",
+              "RelativeToolTip": "BankApp\\ViewModels\\PlayersPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:54:11.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "BankApp\\ViewModels\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\MainPage.xaml.cs",
+              "RelativeToolTip": "BankApp\\ViewModels\\MainPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T06:06:56.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\MainPage.xaml",
+              "RelativeDocumentMoniker": "BankApp\\ViewModels\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\MainPage.xaml",
+              "RelativeToolTip": "BankApp\\ViewModels\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T05:25:14.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BankApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\App.xaml.cs",
+              "RelativeToolTip": "BankApp\\App.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:15:38.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Round.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Round.cs",
+              "RelativeDocumentMoniker": "BankApp\\Models\\Round.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Round.cs",
+              "RelativeToolTip": "BankApp\\Models\\Round.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:57:17.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "BankApp\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Game.cs",
+              "RelativeToolTip": "BankApp\\Models\\Game.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T01:18:05.757Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "BankApp\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Models\\Player.cs",
+              "RelativeToolTip": "BankApp\\Models\\Player.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:51:00.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "BankApp\\Resources\\Styles\\Styles.xaml",
               "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Styles.xaml",
               "RelativeToolTip": "BankApp\\Resources\\Styles\\Styles.xaml",
-              "ViewState": "AQIAABYAAAAAAAAAAADwvzEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T04:36:02.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\MainPage.xaml",
-              "RelativeDocumentMoniker": "BankApp\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\MainPage.xaml",
-              "RelativeToolTip": "BankApp\\MainPage.xaml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T05:25:14.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "BankApp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\MainPage.xaml.cs",
-              "RelativeToolTip": "BankApp\\MainPage.xaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwDoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T06:06:56.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T00:18:52.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ViewPlayersModel.cs",
-              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\ViewPlayersModel.cs",
-              "RelativeDocumentMoniker": "BankApp\\ViewModels\\ViewPlayersModel.cs",
-              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\ViewModels\\ViewPlayersModel.cs",
-              "RelativeToolTip": "BankApp\\ViewModels\\ViewPlayersModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T05:57:03.896Z",
-              "EditorCaption": ""
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "BankApp\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\warne\\Repos\\BankApp\\BankApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "BankApp\\Resources\\Styles\\Colors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-25T00:27:09.244Z"
             }
           ]
         }

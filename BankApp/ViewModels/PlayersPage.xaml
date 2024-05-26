@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BankApp.PlayersPage"
+             Title="">
+    <VerticalStackLayout>
+        <HorizontalStackLayout Padding="20" BackgroundColor="{StaticResource Primary}">
+            <Label FontFamily="RobotoBold" FontSize="24" Text="Warner "/>
+            <Label FontFamily="RobotoBold" FontSize="24" Text="BANK"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout Padding="20, 20, 0, 0">
+            <Button TextColor="black" FontAttributes="Bold" Text="Roll" FontSize="18" BackgroundColor="#fce4d8" Padding="30, 15"/>
+        </HorizontalStackLayout>
+
+
+        <Label x:Name="currentTotalLabel" Text="0" FontSize="50" HorizontalOptions="CenterAndExpand"/>
+        <Label Text="Current Bank Amount" HorizontalOptions="CenterAndExpand"/>
+
+        <!--<Label Text="Players:" FontSize="30" Padding="30"/>-->
+        <ScrollView>
+            <Grid x:Name="PlayersGrid" RowSpacing="20" Padding="20" ColumnSpacing="5">
+            <!-- code will be generated for row definitions -->
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            
+            <!-- code will be generated to populate the grid -->
+
+            </Grid>
+        </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>

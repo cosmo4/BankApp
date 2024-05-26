@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BankApp.MainPage"
+             Title="">
+
+    <VerticalStackLayout>
+        <HorizontalStackLayout Padding="20" BackgroundColor="{StaticResource Primary}">
+            <Label FontFamily="RobotoBold" FontSize="24" Text="Warner "/>
+            <Label FontFamily="RobotoBold" FontSize="24" Text="BANK"/>
+        </HorizontalStackLayout>
+        
+        <Grid Padding="20, 20, 0, 0" ColumnSpacing="60">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button TextColor="black" FontAttributes="Bold" Text="Players" FontSize="15" BackgroundColor="#fce4d8" Clicked="OnPlayersBtnClicked" Padding="20"/>
+            <Label x:Name="turns" FontAttributes="Italic" FontSize="20" Grid.Column="1" Padding="0,20"/>
+        </Grid>
+
+        <Label x:Name="currentTotalLabel" Text="0" FontSize="80" HorizontalOptions="CenterAndExpand"/>
+        <Label Text="Current Bank Amount" HorizontalOptions="CenterAndExpand"/>
+        
+
+        <Grid x:Name="ButtonGrid" Padding="40,30,40,0" RowSpacing="15" ColumnSpacing="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            
+
+            <Button Clicked="OnTwoBtnClicked" x:Name="twoBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="2" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="0"/>
+            <Button Clicked="OnThreeBtnClicked" x:Name="threeBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="3" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="1"/>
+            <Button Clicked="OnFourBtnClicked" x:Name="fourBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="4" BackgroundColor="#f8d87f" Grid.Row="0" Grid.Column="2"/>
+            <Button Clicked="OnFiveBtnClicked" x:Name="fiveBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="5" BackgroundColor="#f8d87f" Grid.Row="1" Grid.Column="0"/>
+            <Button Clicked="OnSixBtnClicked" x:Name="sixBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="6" BackgroundColor="#f8d87f" Grid.Row="1" Grid.Column="1"/>
+            <Button Clicked="OnSevenBtnClicked" x:Name="sevenBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="7" BackgroundColor="#ed474a" Grid.Row="1" Grid.Column="2"/>
+            <Button Clicked="OnEightBtnClicked" x:Name="eightBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="8" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="0"/>
+            <Button Clicked="OnNineBtnClicked" x:Name="nineBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="9" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="1"/>
+            <Button Clicked="OnTenBtnClicked" x:Name="tenBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="10" BackgroundColor="#f8d87f" Grid.Row="2" Grid.Column="2"/>
+            <Button Clicked="OnElevenBtnClicked" x:Name="elevenBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="11" BackgroundColor="#f8d87f" Grid.Row="3" Grid.Column="0"/>
+            <Button Clicked="OnTwelveBtnClicked" x:Name="twelveBtn" TextColor="black" FontAttributes="Bold" FontSize="35" Padding="10" Text="12" BackgroundColor="#f8d87f" Grid.Row="3" Grid.Column="1"/>
+            <Button x:Name="doublesBtn" Clicked="OnDoublesButtonClicked" TextColor="black" Rotation="0"  FontAttributes="Bold" FontSize="15" Padding="10" Text="Doubles!" BackgroundColor="#10ffcb" Grid.Row="3" Grid.Column="3"/>
+
+        </Grid>
+
+        
+        
+
+    </VerticalStackLayout>
+
+</ContentPage>

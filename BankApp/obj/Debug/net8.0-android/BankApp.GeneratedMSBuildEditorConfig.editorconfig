@@ -28,18 +28,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = BankApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/warne/Repos/BankApp/BankApp/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = BankApp.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-
-[C:/Users/warne/Repos/BankApp/BankApp/PlayerFlyoutContent.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = BankApp.PlayerFlyoutContent.xaml
-build_metadata.AdditionalFiles.TargetPath = PlayerFlyoutContent.xaml
-build_metadata.AdditionalFiles.RelativePath = PlayerFlyoutContent.xaml
-
 [C:/Users/warne/Repos/BankApp/BankApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BankApp.Resources.Styles.Colors.xaml
@@ -51,3 +39,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BankApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/warne/Repos/BankApp/BankApp/ViewModels/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BankApp.ViewModels.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\MainPage.xaml
+
+[C:/Users/warne/Repos/BankApp/BankApp/ViewModels/PlayersPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BankApp.ViewModels.PlayersPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\PlayersPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\PlayersPage.xaml
