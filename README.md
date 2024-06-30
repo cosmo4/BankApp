@@ -2,11 +2,9 @@
  
 ## Overview
 
-**Project Title**:
+**Project Title**: Bank App
 
-**Project Description**:
-
-**Project Goals**:
+**Project Description**: Recreation of dice game BANK!
 
 ## Instructions for Build and Use
 
